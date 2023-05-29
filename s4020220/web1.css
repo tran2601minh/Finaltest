@@ -1,0 +1,19 @@
+.container {
+    width: 1024px;
+    height: 720px;
+    width: 50%;
+    overflow: auto;
+    background-color: rgb(255, 0, 0);
+  }
+  .container img {
+    width: 33%;
+    height: auto;
+    margin-top:57%;
+  }
+  .container1 {
+    width: 1024px;
+    height: 720px;
+    width: 50%;
+    overflow: auto;
+    background-color: rgb(255, 255, 255);}
+    
